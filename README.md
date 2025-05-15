@@ -2,7 +2,7 @@
 
 This is a simple, SQL-backed Help Desk Ticketing System built with **Streamlit** and **SQLite**. It serves as a practical demo of how IT teams can manage and track technical support issues through a web-based interface.
 
-> 🚀 **[Live Demo](https://mars-node-helpdesk-ticket-system.streamlit.app)** — hosted via Streamlit Cloud
+> 🚀 **[Live Demo](https://appdesk-ticket-system-hamwwshcrstbubkm7hqgw3.streamlit.app)** — hosted via Streamlit Cloud
 
 ---
 
